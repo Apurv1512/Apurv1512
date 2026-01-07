@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Apurv Waghmare
 
-<!--
-**Apurv1512/Apurv1512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student | TCOER Pune  
+💻 Passionate about Web Development & Python  
+🚀 Currently doing internships in Python & Web Development
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- **Languages:** Python, C, C++, JavaScript  
+- **Web:** HTML, CSS, JavaScript, React (Learning React 🚀)  
+- **Database:** MySQL, Oracle APEX  
+- **Tools:** Git, GitHub, VS Code
+
+---
+
+## 📌 Featured Projects
+- 🎮 Rock Paper Scissors (Python)
+- ✅ To-Do App (Python)
+- 🌐 Landing Page Website
+- (More coming soon)
+
+---
+
+## 📬 Connect With Me
+
+📞 +91 8888589061
+📧 apurvwaghmare204@gmail.com 
+🔗 https://www.linkedin.com/in/apurv-waghmare  
+📸 https://www.instagram.com/apurv_1512/
+
+
+⭐ Feel free to check my repositories and give feedback..!!
