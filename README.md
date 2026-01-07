@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Apurv Waghmare
 
-🎓 Computer Engineering Student | TCOER Pune  
+🎓 3rd Yr Computer Engineering Student | TCOER , Pune  
 💻 Passionate about Web Development & Python  
 🚀 Currently doing internships in Python & Web Development
 
